@@ -1,3 +1,5 @@
+--Made by EvanTheHuman (4096x2160) under the MIT license 
+--https://github.com/EvanTheHuman/StoryTeller/blob/main/LICENSE
 local module = {}
 function module:start(parent)
 	local watermark = Instance.new("TextLabel")
