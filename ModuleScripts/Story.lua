@@ -1,3 +1,5 @@
+--StoryTeller was made by EvanTheHuman (4096x2160) under the MIT license 
+--https://github.com/EvanTheHuman/StoryTeller/blob/main/LICENSE
 local story = {
 	formatver = 1,
 	background = "rbxasset://textures/loading/darkLoadingTexture.png",
